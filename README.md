@@ -23,13 +23,13 @@ $ nano ./theme/boost/templates/footer.mustache
 # Self registration with no email confirmation
 <pre>
 $ chown -R www-data:www-data /var/www/moodle/ #make moodle writable plugin
-# download onlineconfirm.zip : https://
-# go to your moodle, Site administration -> plugin -> install plugin
-# drag plugin after downloaded and install
-# then setup self reg on : administration -> plugin -> Authentication -> Manage authentication
+#download onlineconfirm.zip : https://
+#go to your moodle, Site administration -> plugin -> install plugin
+#drag plugin after downloaded and install
+#then setup self reg on : administration -> plugin -> Authentication -> Manage authentication
  - disable Email-based self-registration
  - enable Online Confirm
-# save
+#save
 </pre>
 
 # disable view online user
