@@ -11,7 +11,7 @@ $ cd /var/www/moodle #path moodle
 $ find ./ -name *.ico
 <i>./theme/boost/pix/favicon.ico #you can change this icon
 ./theme/classic/pix/favicon.ico</i> #you can change this icon
-$ chown -R www-data:www-data /var/www/moodle/
+$ chown -R www-data:www-data ./moodle/
 </pre>
 
 # remove attr footer
@@ -24,6 +24,7 @@ $ nano ./theme/boost/templates/footer.mustache
 <pre>
 $ chown -R www-data:www-data /var/www/moodle/ #make moodle writable plugin
 #download onlineconfirm.zip : https://github.com/strongpapazola/moodle_custom_default/raw/master/onlineconfirm.zip
+!!! for registration confirm with admin, download :https://github.com/strongpapazola/moodle_custom_default/raw/master/auth_emailadmin_moodle37_2019072300.zip
 #go to your moodle, Site administration -> plugin -> install plugin
 #drag plugin after downloaded and install
 #then setup self reg on : administration -> plugin -> Authentication -> Manage authentication
