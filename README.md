@@ -6,6 +6,7 @@
 - disable view online user
 - assign new admin or creator
 - remove forgot password
+- noemailever setup
 
 # change favicon
 <pre>
@@ -51,3 +52,9 @@ $ chown -R www-data:www-data /var/www/moodle/ #make moodle writable plugin
 <img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2018-55-10.png">
 <pre>to : </pre>
 <img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2018-55-47.png">
+
+# noemaileve setup
+<pre>edit /<moodle_dir>/config.php</pre>
+<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2022-01-11.png"
+to : 
+<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2022-01-35.png"
