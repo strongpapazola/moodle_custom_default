@@ -4,6 +4,7 @@
 - remove attr footer
 - Self registration with no email confirmation
 - disable view online user
+- assign new admin or creator
 
 # change favicon
 <pre>
@@ -36,4 +37,10 @@ $ chown -R www-data:www-data /var/www/moodle/ #make moodle writable plugin
 # disable view online user
 <pre>
 #go to Site Admin > Plugins > Blocks > Manage Blocks and hide it there.
+</pre>
+
+# assign new admin or creator
+<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2013-42-26.png">
+<pre>
+#just follow the img
 </pre>
