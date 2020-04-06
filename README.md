@@ -5,6 +5,7 @@
 - Self registration with no email confirmation
 - disable view online user
 - assign new admin or creator
+- remove forgot password
 
 # change favicon
 <pre>
@@ -44,3 +45,9 @@ $ chown -R www-data:www-data /var/www/moodle/ #make moodle writable plugin
 <pre>
 #just follow the img
 </pre>
+
+# remove forgot password
+<pre>Edit this file</pre>
+<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2018-55-10.png">
+<pre>to : </pre>
+<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2018-55-47.png">
