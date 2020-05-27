@@ -55,6 +55,6 @@ $ chown -R www-data:www-data /var/www/moodle/ #make moodle writable plugin
 
 # noemaileve setup
 <pre>edit /<moodle_dir>/config.php</pre>
-<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2022-01-11.png"
+<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2022-01-11.png">
 to : 
-<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2022-01-35.png"
+<img src="https://github.com/strongpapazola/moodle_custom_default/raw/master/Screenshot%20from%202020-04-06%2022-01-35.png">
